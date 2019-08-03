@@ -7,7 +7,7 @@
 引入 `httphijack.js` 。
 
 ```HTML
-<script type="text/javascript" src='./httphijack.js'></script>
+<script type="text/javascript" src='./src/httphijack.js'></script>
 
 <script>
 	window.httphijack.init({
